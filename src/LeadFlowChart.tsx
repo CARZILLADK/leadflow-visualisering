@@ -1,1 +1,3 @@
-import LeadFlowChart from "./assets/LeadFlowChart";
+export default function LeadFlowChart() {
+  ...
+}

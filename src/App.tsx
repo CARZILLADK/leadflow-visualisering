@@ -1,4 +1,4 @@
-import LeadFlowChart from "./LeadFlowChart";
+import { LeadFlowChart } from './LeadFlowChart'
 
 function App() {
   return (
